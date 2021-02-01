@@ -13,6 +13,13 @@ Project is created with:
 * Microservices
 
 
+## Cloud Technlogies
+
+* AWS  
+* PCF	
+
+
+
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Naresh617&show_icons=true)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Naresh617)
