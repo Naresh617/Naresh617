@@ -4,7 +4,7 @@
 	
 ## Technologies
 Project is created with:
-* java 8 
+* Java 8 
 * JAVA EE
 * Spring 
 * Hibernate
