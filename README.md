@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hey, I'm N Naresh Reddy 👋
 
-- I'm an Software Developer
+I am a software engineer with a passion for the Java ecosystem, Spring, REST APIs, and, of course, security. 
+helping the Java community 😀.
 	
 ## Technologies
 Project is created with:
