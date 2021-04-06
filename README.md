@@ -1,6 +1,6 @@
 ### Hey, I'm N Naresh Reddy 👋
 
-I am a software engineer with a passion for the Java ecosystem, Spring, REST APIs, and, of course, security. 
+I am a software engineer with a passion for the Java ecosystem, Spring, REST APIs, and of course, security. 
 helping the Java community 😀.
 	
 ## Technologies
